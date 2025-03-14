@@ -39,11 +39,11 @@ ShardDash is currently in active development. For developers interested in contr
 
 ## Credits
 
-- Game Design: [Your Name]
-- Programming: [Your Team]
-- Art: [Your Artists]
-- Music: [Your Composer]
-- Special thanks to the Unreal Engine community
+- Game Design: Michal Flaška
+- Programming: Martin Paluš
+- Art: Martin Arthur Golis, Michal Flaška, 500_Alphas
+- Music: Michal Flaška
+- Special thanks to the Unreal Engine community, Miroslav Močko, Vojtech Daubner
 
 ## License
 

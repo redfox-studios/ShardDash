@@ -10,10 +10,10 @@ ShardDash is a single-player 3D platformer where you navigate challenging levels
 
 - Fast-paced 3D platforming gameplay
 - Unique purple shard collection mechanic
-- Advanced parkour system inspired by ALTF4 and Chained Together
+- Parkour system inspired by ALTF4
 - Progressive difficulty curve
-- Comprehensive save system
-- Stunning visuals powered by Unreal Engine 5
+- Save system
+- Visuals powered by Unreal Engine 5
 - Original soundtrack and sound effects
 
 ## Installation
@@ -40,10 +40,10 @@ ShardDash is currently in active development. For developers interested in contr
 ## Credits
 
 - Game Design: Michal Flaška
-- Programming: Martin Paluš
-- Art: Martin Arthur Golis, Michal Flaška, 500_Alphas
+- Programming: Martin Paluš, Miroslav Močko
+- Art: Martin Arthur Golis, Michal Flaška, 550_Alphas
 - Music: Michal Flaška
-- Special thanks to the Unreal Engine community, Miroslav Močko, Vojtech Daubner
+- Special thanks to the Unreal Engine community, 550_Alphas Content from Marketplace, Miroslav Močko, Vojtech Daubner, ~~Boris Brnčál~~
 
 ## License
 

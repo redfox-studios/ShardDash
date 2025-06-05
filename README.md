@@ -4,15 +4,15 @@ A high-octane 3D platformer developed in Unreal Engine 5. Inspired by classics l
 
 ## Overview
 
-ShardDash is a single-player 3D platformer where you navigate challenging levels, collect purple shards, and master parkour mechanics to progress through an immersive world. The game features a comprehensive save system allowing players to track their progress as they explore and conquer increasingly difficult environments.
+ShardDash is a single-player 3D platformer where you navigate challenging levels, collect shards, and master parkour mechanics to progress through an immersive world.
 
 ## Features
 
 - Fast-paced 3D platforming gameplay
-- Unique purple shard collection mechanic
+- Unique shard collection mechanic
 - Parkour system inspired by ALTF4
 - Progressive difficulty curve
-- Save system
+- Checkpoint System
 - Visuals powered by Unreal Engine 5
 - Original soundtrack and sound effects
 
@@ -20,7 +20,7 @@ ShardDash is a single-player 3D platformer where you navigate challenging levels
 
 **Note: GitHub Desktop or another Git client is required for installation**
 
-1. Install [GitHub Desktop](https://desktop.github.com/) if you haven't already
+1. Install [GitHub Desktop](https://desktop.github.com/) (or any other Git Provider) if you haven't already
 2. Clone this repository using GitHub Desktop
    - Click on File > Clone repository
    - Select the URL tab and enter the repository URL
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ## Contact
 
-Project Link: https://github.com/RedFox-Studios/ShardDash
+Project Link: https://github.com/redfox-studios/ShardDash
